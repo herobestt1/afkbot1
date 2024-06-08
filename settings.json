@@ -1,6 +1,6 @@
 {
   "bot-account": {
-    "username": "username",
+    "username": "hamoraham",
     "password": "",
     "type": "mojang"
   },
@@ -21,7 +21,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "pass"
+      "password": "habibi9"
     },
 
     "anti-afk": {
@@ -36,7 +36,7 @@
 
       "messages": [
         "/skyblock",
-        "msg"
+        "/is warp herobest1 afk"
       ]
     },
 
