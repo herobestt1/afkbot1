@@ -32,7 +32,7 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 300,
+      "repeat-delay": 200,
 
       "messages": [
         "/skyblock",
