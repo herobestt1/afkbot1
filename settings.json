@@ -6,9 +6,9 @@
   },
 
   "server": {
-    "ip": "mc.leftypvp.net",
+    "ip": "playersmps.aternos.me:54954",
     "port": 25565,
-    "version": "1.8.9"
+    "version": "1.21.1"
   },
   
   "position": {
